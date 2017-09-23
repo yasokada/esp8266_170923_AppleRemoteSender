@@ -1,7 +1,7 @@
 #include "oddParityCalc.h"
 
 /*
- * Sep. 23, 2017
+ * v1.0 Sep. 23, 2017
  *    Checked with Apple TV (A1469) with OS version 7.2.2 (8015)
  */
 
